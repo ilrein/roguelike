@@ -257,6 +257,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 94f7e0dfbf129674d9cc3692bf54f0ae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  node1: {fileID: 1946738715}
+  encounterPrefab: {fileID: 7720216206041270191, guid: ea4d1ec40c81fbb41b9c151704176868,
+    type: 3}
 --- !u!4 &396999765
 Transform:
   m_ObjectHideFlags: 0
